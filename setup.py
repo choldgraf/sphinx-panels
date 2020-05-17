@@ -35,7 +35,7 @@ setup(
     },
     install_requires=["docutils", "sphinx"],
     extras_require={
-        "rtd": ["sphinx-rtd-theme"],
+        "rtd": ["sphinx-book-theme"],
         "code_style": [
             "flake8<3.8.0,>=3.7.0",
             "black",

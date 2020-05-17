@@ -2,9 +2,10 @@
 sphinx-panels
 =============
 
-.. contents::
-    :local:
-    :depth: 2
+.. toctree::
+    :hidden:
+
+    index
 
 
 A sphinx extension for creating panels in a grid layout or as drop-downs.
